@@ -1,4 +1,4 @@
-# Doublet
+# Doublet detection of single cell
 
 ★paper
 
